@@ -1,8 +1,6 @@
 # Robin Hood Army – Volunteer Drives Finder
 
-A modern, responsive web application that helps volunteers discover nearby food distribution drives organized by the Robin Hood Army. Built with React, Tailwind CSS, and Leaflet maps, this project mimics the official brand identity and demonstrates a clean, NGO‑focused user experience.
-
-![Home Page Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cd351cb-9c92-4e4f-8a1d-31479c993e8e" />)  
+A modern, responsive web application that helps volunteers discover nearby food distribution drives organized by the Robin Hood Army. Built with React, Tailwind CSS, and Leaflet maps, this project mimics the official brand identity and demonstrates a clean, NGO‑focused user experience. 
 
 ## ✨ Features
 
