@@ -58,9 +58,9 @@ export default function DriveDetails() {
       >
         <div className="relative h-64 md:h-96 rounded-xl overflow-hidden mb-8">
           <img 
-            src="https://images.unsplash.com/photo-1593113598335-7c4a2c6e7b3c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
+            src="/images/rha_banner.jpg" 
             alt="Drive banner"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-fill"
           />
           <div className="absolute inset-0 bg-black bg-opacity-40 flex items-end">
             <div className="p-6 text-white">
