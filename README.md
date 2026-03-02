@@ -2,8 +2,8 @@
 
 A modern, responsive web application that helps volunteers discover nearby food distribution drives organized by the Robin Hood Army. Built with React, Tailwind CSS, and Leaflet maps, this project mimics the official brand identity and demonstrates a clean, NGO‑focused user experience.
 
-![Home Page Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)  
-*(Replace with an actual screenshot of your app)*
+![Home Page Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cd351cb-9c92-4e4f-8a1d-31479c993e8e" />
+)  
 
 ## ✨ Features
 
@@ -30,7 +30,7 @@ A modern, responsive web application that helps volunteers discover nearby food 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRajbharSachin%2FRobin-Hood-Drives)
 
-*(Click the button to deploy your own copy, or visit the live demo at [https://rha-drives.vercel.app](https://rha-drives.vercel.app) – replace with your actual URL)*
+*(Click the button to deploy your own copy, or visit the live demo at [[https://rha-drives.vercel.app]([https://robin-hood-drives.vercel.app/](https://robin-hood-drives.vercel.app/))]*
 
 ## 📦 Local Setup
 
